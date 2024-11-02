@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="palette_black">#FF000000</color>
+    <color name="palette_white">#FFFFFFFF</color>
+    <color name="palette_red">#FFFF5350</color>
+
+    <color name="common_bg_primary">#FFFFFFFF</color>
+    <color name="common_bg_secondary">#FFF3F5F7</color>
+    <color name="common_text_primary">#FF000000</color>
+    <color name="common_text_secondary">#AA000000</color>
+    <color name="common_text_inverted">#FFFFFFFF</color>
+    <color name="common_text_disabled">#FFA0A0A0</color>
+    <color name="common_button_primary">#FF161616</color>
+    <color name="common_button_inverted">#FFFFFFFF</color>
+    <color name="common_button_stroked">#FFA0A0A0</color>
+</resources>

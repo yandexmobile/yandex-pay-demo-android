@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="common_corner_radius_large">18dp</dimen>
+    <dimen name="common_spacing_large">16dp</dimen>
+    <dimen name="common_spacing_small">8dp</dimen>
+    <dimen name="common_button_large">52dp</dimen>
+    <dimen name="common_button_small">42dp</dimen>
+
+    <dimen name="main_top_bar_height">58dp</dimen>
+    <dimen name="main_top_bar_logo_height">36dp</dimen>
+    <dimen name="main_cart_icon_padding">12dp</dimen>
+    <dimen name="main_cart_counter_height">28dp</dimen>
+    <dimen name="main_badge_height">18dp</dimen>
+
+    <dimen name="cart_item_height">140dp</dimen>
+</resources>

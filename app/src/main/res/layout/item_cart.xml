@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/cart_item_height"
+    android:padding="@dimen/common_spacing_large">
+
+    <ImageView
+        android:id="@+id/item_cart_image"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintDimensionRatio="H,1:1"
+        tools:src="@drawable/duck_00"/>
+
+    <TextView
+        style="@style/TextStyle.Title"
+        android:id="@+id/item_cart_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/common_spacing_large"
+        app:layout_constraintStart_toEndOf="@id/item_cart_image"
+        app:layout_constraintTop_toTopOf="@id/item_cart_image"
+        tools:text="@string/duck_title_00"/>
+
+    <TextView
+        style="@style/TextStyle.Price"
+        android:id="@+id/item_cart_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/common_spacing_large"
+        app:layout_constraintStart_toEndOf="@id/item_cart_image"
+        app:layout_constraintBottom_toBottomOf="@id/item_cart_image"
+        tools:text="1500 ₽"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

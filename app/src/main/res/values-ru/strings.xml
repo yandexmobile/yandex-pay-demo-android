@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_add_to_cart">В корзину</string>
+    <string name="button_in_the_cart">В корзине</string>
+    <string name="button_checkout">Оплатить</string>
+    <string name="button_close">Закрыть</string>
+
+    <string name="title_your_cart">В корзине</string>
+    <string name="title_empty_cart">пока ничего нет</string>
+    <string name="title_your_order">Ваш заказ:</string>
+
+    <string name="button_wait_url">Подготовка платежа …</string>
+    <string name="button_wait_res">Проведение платежа …</string>
+    <string name="button_res_success">Заказ успешно оплачен</string>
+    <string name="button_res_cancel">Заказ отменён</string>
+    <string name="button_res_failure">Ошибка оплаты заказа</string>
+
+    <string name="duck_title_00">Уточка Гжель</string>
+    <string name="duck_title_01">Уточка-модница</string>
+    <string name="duck_title_02">Уточка-космонавт</string>
+    <string name="duck_title_03">Уточка Хохлома</string>
+    <string name="duck_title_04">Уточка-самурай</string>
+    <string name="duck_title_05">Уточка Стимпанк</string>
+
+    <string name="duck_desc_00">Резиновая уточка, расписанная под Гжель - это оригинальный и стильный аксессуар для дома. Уточка имеет яркий и красивый дизайн, который будет отлично смотреться в любом интерьере</string>
+    <string name="duck_desc_01">Резиновая уточка в шляпе - это забавный и оригинальный аксессуар для вашего дома или офиса. Уточка имеет шляпу в виде цилиндра, которая придает ей особый шарм и делает ее еще более привлекательной</string>
+    <string name="duck_desc_02">Резиновая уточка в виде космонавта - это забавный и оригинальный подарок для любителей космических приключений. Уточка может использоваться как игрушка для ванны или как декор для дома или офиса</string>
+    <string name="duck_desc_03">Перед вами уникальная уточка, которая станет отличным подарком для любого человека. Она идеально подходит для украшения интерьера и создания атмосферы уюта и тепла в вашем доме</string>
+    <string name="duck_desc_04">Это не просто игрушка, это настоящий самурай! Он сделан из высококачественного материала, который не только выглядит реалистично, но и обладает высокой прочностью и долговечностью</string>
+    <string name="duck_desc_05">Если вы ищете необычный и оригинальный подарок, то резиновая утка-стимпанк-робот – это именно то, что вам нужно. Она станет прекрасным подарком для близких, друзей или коллег</string>
+</resources>

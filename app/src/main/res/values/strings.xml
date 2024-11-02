@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">DuckStore</string>
+    <string name="copyright" translatable="false">© 2024 DuckStore</string>
+    <string name="price_format" translatable="false">%1$d ₽</string>
+
+    <string name="button_add_to_cart">Add to cart</string>
+    <string name="button_in_the_cart">In the cart</string>
+    <string name="button_checkout">Checkout</string>
+    <string name="button_close">Close</string>
+    <string name="button_wait_url">Preparing checkout …</string>
+    <string name="button_wait_res">Processing checkout …</string>
+    <string name="button_res_success">Checkout complete!</string>
+    <string name="button_res_cancel">Checkout cancelled</string>
+    <string name="button_res_failure">Checkout failed</string>
+
+    <string name="title_your_cart">Your cart</string>
+    <string name="title_empty_cart">is still empty</string>
+    <string name="title_your_order">Your order:</string>
+
+    <string name="duck_title_00">Gzhel Duck</string>
+    <string name="duck_title_01">Fashion Duck</string>
+    <string name="duck_title_02">Space Duck</string>
+    <string name="duck_title_03">Painted Duck</string>
+    <string name="duck_title_04">Samurai Duck</string>
+    <string name="duck_title_05">Steampunk Duck</string>
+
+    <string name="duck_desc_00">A rubber duck painted to look like a Gzhel is an original and stylish accessory for the home. The duck has a bright and beautiful design that will look great in any interior</string>
+    <string name="duck_desc_01">A rubber duck in a hat is a fun and original accessory for your home or office. The duck has a hat in the form of a cylinder, which gives it a special charm and makes it even more attractive</string>
+    <string name="duck_desc_02">A rubber duck in the form of an astronaut is a fun and original gift for space adventure enthusiasts. The duck can be used as a bath toy or as a home or office decor</string>
+    <string name="duck_desc_03">Here is a unique duck that will be a great gift for anyone. It is ideal for decorating the interior and creating an atmosphere of comfort and warmth in your home</string>
+    <string name="duck_desc_04">It\'s not just a toy, it\'s a real samurai! It is made of high-quality material, which not only looks realistic, but also has high strength and durability</string>
+    <string name="duck_desc_05">If you are looking for an unusual and original gift, then a rubber duck steampunk robot is exactly what you need. It will be a wonderful gift for family, friends or colleagues</string>
+</resources>

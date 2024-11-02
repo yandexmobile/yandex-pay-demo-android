@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="common_bg_primary">#FF333333</color>
+    <color name="common_bg_secondary">#FF222222</color>
+    <color name="common_text_primary">#FFFFFFFF</color>
+    <color name="common_text_secondary">#AAFFFFFF</color>
+    <color name="common_text_inverted">#FF000000</color>
+    <color name="common_button_primary">#FFCCCCCC</color>
+    <color name="common_button_inverted">#FF121212</color>
+</resources>
