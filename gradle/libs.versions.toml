@@ -8,7 +8,7 @@ appcompat = "1.7.0"
 recycler = "1.3.2"
 constraint = "2.1.4"
 cardview = "1.0.0"
-yandexpay = "2.3.9.1"
+yandexpay = "2.3.10"
 okhttp = "4.12.0"
 
 [libraries]
