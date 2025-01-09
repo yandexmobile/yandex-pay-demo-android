@@ -12,7 +12,7 @@ You can use this demo app as a reference point for your merchant app with the fo
 
 - replace the YANDEX_CLIENT_ID placeholder in the build.gradle.kts file with your proper YANDEX_CLIENT_ID. The correct client ID is required for propagating the checkout result back into your merchant app;
 
-Please refer to the official documentation for more information about registering your own merchant ID, API key and client ID: https://pay.yandex.ru/docs/ru/custom/android-sdk/preparing
+Please refer to the official documentation for more information about registering your own merchant ID, API key and client ID: https://pay.yandex.ru/docs/ru/custom/android-sdk/url-flow
 
 # More information:
 
